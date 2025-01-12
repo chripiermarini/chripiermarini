@@ -1,4 +1,4 @@
-👋 Hi, I’m Christian Piermarini, a Ph.D. in Operations Research form 'La Sapienza' University of Rome, and an ex-Applied scientist intern in Amazon Luxembourg.
+👋 Hi, I’m Christian Piermarini, a Ph.D. in Operations Research form 'La Sapienza' University of Rome, and an ex-Applied scientist intern at the Amazon Science Headquarters in Luxembourg.
 
 👀 I’m interested in mathematical optimization, applied in machine learning and data science.
 
