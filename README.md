@@ -2,7 +2,7 @@
 
 👀 I’m interested in mathematical optimization, applied in machine learning and data science.
 
-🌱 I’m currently learning as much as I can about Computer Science and Data science. Fierce Leetcoder and Kaggler! 
+🌱 I’m currently learning interesting topics about Computer Science and Data science.
 
 📫 How to reach me: 
 
