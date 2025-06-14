@@ -7,4 +7,4 @@
 
 - My mail: chripiermarini@gmail.com
     
-- My LinkedIn profile: https://www.linkedin.com/in/christian-piermarini-62a664225/
+- My LinkedIn profile: https://www.linkedin.com/in/christian-piermarini-ph-d-62a664225/
