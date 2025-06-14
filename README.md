@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning interesting topics about Computer Science and Data science.
 
+📚 My google scholar: https://scholar.google.com/citations?user=JFDyn2kAAAAJ&hl=it&oi=ao
+
 📫 How to reach me: 
 
 - My mail: chripiermarini@gmail.com
