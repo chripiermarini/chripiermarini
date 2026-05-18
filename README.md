@@ -24,7 +24,7 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 🆔 **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6810-174X)
 
 ### 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats-card.herokuapp.com/?username=AngryBlackCat&theme=dark)](https://leetcode.com/u/AngryBlackCat/)
+[![LeetCode Profile](https://github-readme-leetcode.vercel.app/?username=AngryBlackCat&theme=dark)](https://leetcode.com/u/AngryBlackCat/)
 
 ---
 
