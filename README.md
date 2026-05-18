@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning interesting topics about Operations Research, Computer Science and some Data science.
 
-📚 My google scholar: https://scholar.google.com/citations?user=JFDyn2kAAAAJ&hl=it&oi=ao
+📚 My google scholar: [![Le mie statistiche su Google Scholar](https://github-readme-scholar.vercel.io/api?user=JFDyn2kAAAAJ&theme=dark)](https://scholar.google.com/citations?user=JFDyn2kAAAAJ&hl=it&oi=ao)
 
 📫 How to reach me: 
 
