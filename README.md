@@ -23,8 +23,8 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 📚 **Google Scholar:** [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JFDyn2kAAAAJ&hl=it&oi=ao)  
 🆔 **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6810-174X)
 
-### 💻 LeetCode Stats
-[![LeetCode Profile](https://github-readme-leetcode.vercel.app/?username=AngryBlackCat&theme=dark)](https://leetcode.com/u/AngryBlackCat/)
+### 💻 Coding Practice
+🥷 **LeetCode Profile:** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AngryBlackCat/)
 
 ---
 
