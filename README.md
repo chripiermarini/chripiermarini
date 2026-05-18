@@ -4,7 +4,7 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 
 ---
 
-### 🚀 What I Do (At a Glance)
+### 🚀 What I Do (at a glance)
 * **Core Expertise:** Mathematical Optimization (Large-Scale, Continuous, Combinatorial), Machine Learning Pipelines, and Discrete-Event Simulation.
 * **Industry Impact:** Architecting end-to-end production pipelines, automated network assignment tools, and simulation frameworks to optimize global supply chains and logistics.
 * **Academic Contribution:** Developed and published novel optimization algorithms in large scale settings through matrix factorization, benchmark methods, and stochastic momentum methods for physics-informed machine learning.
@@ -22,6 +22,9 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 ### 📊 Research & Profiles
 📚 **Google Scholar:** [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JFDyn2kAAAAJ&hl=it&oi=ao)  
 🆔 **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6810-174X)
+
+### 💻 LeetCode Stats
+[![LeetCode Stats](https://leetcode-stats-card.herokuapp.com/?username=AngryBlackCat&theme=dark)](https://leetcode.com/u/AngryBlackCat/)
 
 ---
 
