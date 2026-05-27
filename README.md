@@ -5,7 +5,7 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 ---
 
 ### 🚀 What I Do (at a glance)
-* **Core Expertise:** Mathematical Optimization (Large-Scale, Continuous, Combinatorial), Machine Learning Pipelines, and Discrete-Event Simulation.
+* **Core Expertise:** Mathematical Optimization (Large-Scale, Continuous, Combinatorial), Machine Learning and ML-based Pipelines, Discrete-Event Simulation.
 * **Industry Impact:** Architecting end-to-end production pipelines, automated network assignment tools, and simulation frameworks to optimize global supply chains and logistics.
 * **Academic Contribution:** Developed and published novel optimization algorithms in large scale settings through matrix factorization, benchmark methods, and stochastic momentum methods for physics-informed machine learning.
 
