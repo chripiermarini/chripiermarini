@@ -22,6 +22,7 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 ### 📊 Research & Profiles
 📚 **Google Scholar:** [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JFDyn2kAAAAJ&hl=it&oi=ao)  
 🆔 **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6810-174X)
+📈 **OR Stack Exchange:** [![OR Stack Exchange](https://img.shields.io/badge/OR_Stack_Exchange-Community-F48024?style=flat-square&logo=stackexchange&logoColor=white)](https://or.stackexchange.com/users/13662/chripierma)
 
 ### 💻 Coding Practice
 🥷 **LeetCode Profile:** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AngryBlackCat/)
