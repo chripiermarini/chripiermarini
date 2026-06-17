@@ -13,7 +13,7 @@ I hold a Ph.D. in Operations Research and dual Engineering/Applied Mathematics d
 
 ### 🛠️ Technical Toolkit
 * **Languages:** Python (Advanced), SQL, Fortran, Java, Bash
-* **Optimization & OR:** OR-tools, FICO Xpress, Pyomo, AMPL, SimPy, Arena, Simulation
+* **Optimization & OR:** OR-tools, Gurobi, FICO Xpress, Pyomo, AMPL, SimPy, Arena Simulation
 * **Machine Learning & Data:** Pandas, Polars, PyTorch, Scikit-learn, (learning) DuckDB and JAX
 * **Infrastructure:** Docker, AWS (S3, EC2, lambda), Git
 
